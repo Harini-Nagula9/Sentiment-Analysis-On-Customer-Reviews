@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/505af702-706e-4698-978a-b8deadface4c)
+
 # Sentiment Analysis on Customer Reviews
 
 ## Overview
